@@ -18,7 +18,6 @@
   
 # Linux
 
-# termux
 
   apt install git
   
