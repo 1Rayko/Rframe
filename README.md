@@ -12,6 +12,8 @@
   
   cd Rframe 
   
+  gem install fileutils
+  
   gem install colorize
   
   ruby main.rb
@@ -28,6 +30,8 @@
   git clone https://github.com/kotik06/Rframe
   
   cd Rframe 
+  
+  gem install fileutils
   
   gem install colorize
   
